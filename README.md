@@ -6,3 +6,11 @@ https://golang.org/
 ```
 go version
 ```
+- ビルド
+```
+go build hello.go
+```
+- ビルド、実行
+```
+go run hello.go
+```
