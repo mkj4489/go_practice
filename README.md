@@ -22,6 +22,6 @@ go run hello.go
 ```
 go get github.com/nsf/gocode
 ```
-- A Tour of Go
--- go のチュートリアル
--- https://go-tour-jp.appspot.com/welcome/1
+## A Tour of Go
+- go のチュートリアル
+- https://go-tour-jp.appspot.com/welcome/1
