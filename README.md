@@ -7,7 +7,6 @@ https://golang.org/
 go version
 ```
 - ビルド
-
 ```
 go build hello.go
 出力する実行ファイルのファイル名を指定して、ビルド
