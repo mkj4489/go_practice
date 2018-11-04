@@ -4,7 +4,6 @@ https://golang.org/
 
 - バージョンの確認
 ```
-
 go version
 ```
 - ビルド
